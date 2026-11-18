@@ -1,0 +1,11 @@
+{
+  "age": "50-59",
+  "menopause": "ge40",
+  "tumor-size": "30-34",
+  "inv-nodes": "3-5",
+  "node-caps": "yes",
+  "deg-malig": "3",
+  "breast": "left",
+  "breast-quad": "left_low",
+  "irradiat": "yes"
+}
